@@ -1,0 +1,25 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "timestamp microservice freecodecamp",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego-augusto/timestamp-microservice.git"
+  },
+  "keywords": [
+    "microservice",
+    "timestamp"
+  ],
+  "author": "Diego Augusto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diego-augusto/timestamp-microservice/issues"
+  },
+  "homepage": "https://github.com/diego-augusto/timestamp-microservice#readme"
+}
